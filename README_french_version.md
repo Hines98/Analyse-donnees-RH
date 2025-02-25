@@ -9,3 +9,23 @@ L’objectif de ce projet est de réaliser un tableau de bord tenant compte des 
 Cet outil doit permettre aux RH : 
 -	D’avoir  un suivi des tendances des employés : embauche, départs et actifs
 -	D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
+
+## Tableau de bord
+Le tableau de bord fournit une vue d'ensemble des statistiques RH de l’entreprise :
+-	Un résumé des effectifs (employés actifs, départs, embauches)
+-	Des vues plus détaillées par région, tranche d’âge….
+On retient 4 éléments principaux :
+•	Une forte embauche des jeunes (< 30 ans).
+•	Des départs d'employés dans toutes les tranches d'âge, mais surtout chez les jeunes et ceux en fin de carrière (séniors)
+•	Des disparités régionales en matière d'ancienneté et de turnover
+•	Un effectif employé en majorité masculin
+
+## Synthèse
+L’entreprise semble fonctionner sur un modèle où elle embauche massivement des jeunes (coût d’embauche et de rémunération plus bas, stages et alternances) mais ne parvient pas forcément à les fidéliser sur le long terme (turnover élevé, postes précaires, conditions de travail….). En parallèle, les départs des séniors sont naturels mais peuvent aussi être influencés par la politique interne de gestion des carrières (départs à la retraite, éviction, fatigue professionnelle).
+Pour réduire le turnover des jeunes, l’entreprise pourrait :
+•	Mettre en place des programmes de formation et d’évolution
+•	Améliorer les conditions de travail et la culture d’entreprise
+•	Proposer des avantages attractifs
+Pour retenir plus longtemps les séniors :
+•	Offrir des opportunités de mentorat ou de transition vers des postes moins exigeants
+•	Valoriser leur expertise et leur expérience au sein de l’entreprise
