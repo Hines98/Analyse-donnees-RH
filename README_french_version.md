@@ -29,3 +29,6 @@ Pour réduire le turnover des jeunes, l’entreprise pourrait :
 Pour retenir plus longtemps les séniors :
 - Offrir des opportunités de mentorat ou de transition vers des postes moins exigeants
 - Valoriser leur expertise et leur expérience au sein de l’entreprise
+  
+![image](https://github.com/user-attachments/assets/cc4979ec-8789-499e-999d-02cf86561ab4)
+
