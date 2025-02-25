@@ -11,9 +11,6 @@ Cet outil doit permettre aux RH :
 -	D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
 
 ## Tableau de bord
-Le tableau de bord fournit une vue d'ensemble des statistiques RH de l’entreprise :
--	Un résumé des effectifs (employés actifs, départs, embauches)
--	Des vues plus détaillées par région, tranche d’âge….
 On retient 4 éléments principaux :
 •	Une forte embauche des jeunes (< 30 ans).
 •	Des départs d'employés dans toutes les tranches d'âge, mais surtout chez les jeunes et ceux en fin de carrière (séniors)
