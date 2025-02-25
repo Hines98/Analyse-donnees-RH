@@ -1,5 +1,5 @@
 # HR Analysis Dashboard
-This is a PBI project titled 
+This is a PBI project
 
 ## Problem Statement
 The HR (Human Resource) department is the heart of every organization. From recruitment to compensation to performance appraisal and employee wellbeing, the HR department plays several roles in the enterprise. HR acts as a mediator or a bridge between the employees and the management or enterprise. It’s no surprise that the HR department is already burdened with work. Providing them access to the latest technology and the means to derive insights in real time will help reduce the workload and create a healthy environment throughout the organization.
