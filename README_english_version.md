@@ -10,27 +10,24 @@ So, how does the HR department make these decisions in volatile market condition
 ## Objective
 The objective of this project is to create a dashboard that addresses the challenges faced by HR professionals and provides an effective way to answer their daily questions. The dashboard will offer real-time insights into active employees, new hires, separations, and other key metrics to support strategic decision-making.
 This tool aims to enable HR to:
-•	Track employee trends: Hiring, separations, and active employees.
-•	Analyze demographic and performance data: Distribution of employees by gender, age, and tenure.
+- Track employee trends: Hiring, separations, and active employees
+- Analyze demographic and performance data: Distribution of employees by gender, age, and tenure.
 
 ## Dashboard
-The dashboard provides an overview of the company's HR statistics.
-- A summary of the workforce (active employees, departures, hires).
-- More detailed views by region, age group, etc.
 Four main points stand out:
-• A high recruitment rate of young employees (< 30 years old).
-• Employee departures across all age groups, but especially among young employees and those at the end of their careers (seniors).
-• Regional disparities in terms of seniority and turnover.
-• A predominantly male workforce.
+- A high recruitment rate of young employees (< 30 years old)
+- Employee departures across all age groups, but especially among young employees and those at the end of their careers (seniors)
+- Regional disparities in terms of seniority and turnover
+- A predominantly male workforce.
 
 ## Summary
 The company appears to operate on a model where it hires young employees in large numbers (lower hiring and salary costs, internships, and apprenticeships) but struggles to retain them in the long run (high turnover, precarious positions, working conditions, etc.). At the same time, senior departures are natural but may also be influenced by internal career management policies (retirement, dismissals, job fatigue).
 
 To reduce young employee turnover, the company could:
-• Implement training and career development programs.
-• Improve working conditions and company culture.
-• Offer attractive benefits.
+- Implement training and career development programs
+- Improve working conditions and company culture
+- Offer attractive benefits.
 
 To retain senior employees longer:
-• Provide mentorship opportunities or transitions to less demanding roles.
-• Recognize and value their expertise and experience within the company.
+- Provide mentorship opportunities or transitions to less demanding roles
+- Recognize and value their expertise and experience within the company
