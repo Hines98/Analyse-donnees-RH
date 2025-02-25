@@ -31,3 +31,5 @@ To reduce young employee turnover, the company could:
 To retain senior employees longer:
 - Provide mentorship opportunities or transitions to less demanding roles
 - Recognize and value their expertise and experience within the company
+
+![image](https://github.com/user-attachments/assets/81a58cdc-c50d-4865-b457-646b501e01da)
