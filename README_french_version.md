@@ -1,9 +1,8 @@
-# Analyse RH
+# Analyse de données RH
+
 ## Contexte
 Le département des ressources humaines (RH) est le cœur de toute organisation. De la gestion du recrutement à la rémunération, en passant par les évaluations de performance et le bien-être des employés, les RH jouent de nombreux rôles dans l’entreprise. Les RH agissent comme un médiateur ou un pont entre les employés et la direction ou l’entreprise. Il n’est donc pas surprenant que le département RH soit déjà surchargé de travail. Leur fournir un accès aux dernières technologies et aux moyens de tirer des informations en temps réel aidera à réduire leur charge de travail et à créer un environnement sain dans toute l’organisation.
-Les fluctuations du marché et l’évolution rapide des technologies ont affecté le marché mondial. De nombreux rapports publiés ont montré qu’environ la moitié des employés souhaitaient changer d’emploi. Alors que certains chercheurs de marché ont déclaré que la flexibilité du travail et la sécurité de l’emploi étaient leurs principaux facteurs, d’autres ont admis que leur objectif était un salaire plus élevé.
-Au fil des années, différentes régions ont connu des augmentations et des diminutions des salaires. Les augmentations visaient à retenir les professionnels de haut niveau, tandis que les réductions de salaires étaient dues aux fluctuations du marché et ont été corrigées une fois que les conditions du marché se sont améliorées. Les professionnels des RH à travers le monde recrutent de nouveaux employés, essayent de retenir les talents et de comprendre les besoins des employés qui ont quitté l’entreprise.
-Alors, comment le département RH peut-il prendre ces décisions dans des conditions de marché volatiles ? Ils s’appuient sur l’analyse des données RH pour comprendre la situation actuelle et développer une approche moderne et innovante. 
+Alors, comment le département RH peut-il prendre ces décisions dans des conditions de marché volatiles ? 
 
 ## Objectif
 L’objectif de ce projet est de réaliser un tableau de bord tenant compte des défis auxquels les professionnels des RH sont confrontés et de fournir un moyen efficace de répondre à leurs questions quotidiennes.  Le tableau de bord offrira des insights en temps réel sur les employés actifs, les nouvelles recrues, les départs et d’autres métriques clés pour soutenir une prise de décision stratégique. 
