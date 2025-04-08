@@ -10,6 +10,7 @@ Cet outil doit permettre aux RH :
 
 #### [Télécharger les données](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR-Data.xlsx)
 #### [Télécharger le tableau de bord sous Power BI](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR%20Analysis%20Dashboard.pbix)
+#### [Télécharger le tableau de bord sour format PDF]()
 
 
 ## Synthèse
@@ -30,4 +31,5 @@ Pour retenir plus longtemps les séniors :
 - Offrir des opportunités de mentorat ou de transition vers des postes moins exigeants
 - Valoriser leur expertise et leur expérience au sein de l’entreprise
 
-![image](https://github.com/user-attachments/assets/81a58cdc-c50d-4865-b457-646b501e01da)
+![image](https://github.com/user-attachments/assets/3bcad150-8887-4496-a401-ecbbf4f587de)
+
