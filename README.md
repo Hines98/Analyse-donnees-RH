@@ -31,5 +31,6 @@ Pour retenir plus longtemps les séniors :
 - Offrir des opportunités de mentorat ou de transition vers des postes moins exigeants
 - Valoriser leur expertise et leur expérience au sein de l’entreprise
 
-![image](https://github.com/user-attachments/assets/3bcad150-8887-4496-a401-ecbbf4f587de)
+![image](https://github.com/user-attachments/assets/fd2098e8-07df-4efb-83a1-2dd29fcd8d05)
+
 
