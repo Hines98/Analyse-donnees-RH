@@ -10,7 +10,7 @@ Cet outil doit permettre aux RH :
 
 #### [Télécharger les données](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR-Data.xlsx)
 #### [Télécharger le tableau de bord sous Power BI](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR%20Analysis%20Dashboard.pbix)
-#### [Télécharger le tableau de bord sour format PDF]()
+#### [Télécharger le tableau de bord sour format PDF](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR%20Analysis%20Dashboard.pdf)
 
 
 ## Synthèse
