@@ -9,7 +9,7 @@ Cet outil doit permettre aux RH :
 -	D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
 
 #### [Télécharger les données](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR-Data.xlsx)
-#### [Télécharger le tableau de bord sous Power BI](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR%20Analysis%20Dashboard.pbix)
+#### [Ouvrir le rapport Power BI](https://app.powerbi.com/links/AS2CvCjp_q?ctid=9209d438-0045-4b2d-98a3-49436baf1ead&pbi_source=linkShare)
 #### [Télécharger le tableau de bord sour format PDF](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR%20Analysis%20Dashboard.pdf)
 
 
