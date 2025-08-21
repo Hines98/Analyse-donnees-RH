@@ -9,6 +9,7 @@ Cet outil doit permettre aux RH :
 -	D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
 
 #### [Télécharger les données](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR-Data.xlsx)
+#### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Analyse_donnees_RH_PBI/blob/main/HR%20Analysis%20Dashboard.pbix)
 #### [Télécharger le tableau de bord sour format PDF](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR%20Analysis%20Dashboard.pdf)
 
 
@@ -30,6 +31,8 @@ Pour retenir plus longtemps les séniors :
 - Offrir des opportunités de mentorat ou de transition vers des postes moins exigeants
 - Valoriser leur expertise et leur expérience au sein de l’entreprise
 
-![image](https://github.com/user-attachments/assets/fd2098e8-07df-4efb-83a1-2dd29fcd8d05)
+<img width="1378" height="711" alt="image" src="https://github.com/user-attachments/assets/24780d3a-470c-42b8-8c81-e88106a63f4d" />
+
+
 
 
