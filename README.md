@@ -14,13 +14,14 @@ Cet outil doit permettre aux RH :
 
 
 ## Synthèse
-On retient 4 éléments principaux :
-- Une forte embauche des jeunes (< 30 ans)
-- Des départs d'employés dans toutes les tranches d'âge, mais surtout chez les jeunes et ceux en fin de carrière (séniors)
-- Des disparités régionales en matière d'ancienneté et de turnover
-- Un effectif employé en majorité masculin
+On retient 5 éléments principaux :
+- Un turnover global élevé de 33,4% avec 104 départs sur 311 employés
+- Une crise majeure en 2011 (pic à 71,1% de turnover) suivie d'une amélioration progressive
+- Des disparités importantes par département : Production (39,7%) et Engineering (36,4%) les plus touchés vs Sales (16,1%)
+- Un turnover inversement corrélé à l'ancienneté : 100% pour les nouveaux arrivants, seulement 7% pour les anciens
+- Un phénomène touchant particulièrement les séniors (62% chez les 65+) suggérant des départs en retraite
 
-L’entreprise semble fonctionner sur un modèle où elle embauche massivement des jeunes (coût d’embauche et de rémunération plus bas, stages et alternances) mais ne parvient pas forcément à les fidéliser sur le long terme (turnover élevé, postes précaires, conditions de travail….). En parallèle, les départs des séniors sont naturels mais peuvent aussi être influencés par la politique interne de gestion des carrières (départs à la retraite, éviction, fatigue professionnelle).
+L'entreprise semble avoir surmonté une crise majeure en 2011 mais conserve des défis structurels avec un turnover encore élevé, particulièrement dans les départements techniques critiques tels que Production et Engineering. En parallèle, les départs des séniors sont naturels mais peuvent aussi être influencés par la politique interne de gestion des carrières (départs à la retraite, éviction, fatigue professionnelle).
 
 Pour réduire le turnover des jeunes, l’entreprise pourrait :
 - Mettre en place des programmes de formation et d’évolution
@@ -31,7 +32,11 @@ Pour retenir plus longtemps les séniors :
 - Offrir des opportunités de mentorat ou de transition vers des postes moins exigeants
 - Valoriser leur expertise et leur expérience au sein de l’entreprise
 
-<img width="1378" height="711" alt="image" src="https://github.com/user-attachments/assets/24780d3a-470c-42b8-8c81-e88106a63f4d" />
+Pour les départements avec turnover élevé :
+- Revoir les conditions de travail et la charge dans ces services
+- Proposer des parcours d'évolution attractifs
+
+
 
 
 
