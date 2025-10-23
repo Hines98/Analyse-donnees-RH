@@ -8,7 +8,7 @@ Cet outil doit permettre aux RH :
 -	D’avoir  un suivi des tendances des employés : embauche, départs et actifs
 -	D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
 
-#### [Télécharger les données](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/HR-Data.xlsx)
+#### [Télécharger les données](https://github.com/Hines98/Analyse-donnees-RH/blob/4ccd054ddd2f42c1ac39d33b73e2062ebae3942c/HRData.csv)
 #### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Analyse-donnees-RH/blob/3db3861efafe8bb2ca8977296b1bbec956441594/Report_HR_Data.pbix)
 #### [Télécharger le tableau de bord sour format PDF](https://github.com/Hines98/Analyse-donnees-RH/blob/3147568b18126d3accba436bbd87a719f309ccc8/Report_HR_Data.pdf)
 
