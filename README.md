@@ -3,7 +3,7 @@ Le département des ressources humaines (RH) est le cœur de toute organisation.
 Alors, comment le département RH peut-il prendre ces décisions dans des conditions de marché volatiles ? 
 
 ## Objectif
-L’objectif de ce projet est de réaliser un tableau de bord tenant compte des défis auxquels les professionnels des RH sont confrontés et de fournir un moyen efficace de répondre à leurs questions quotidiennes.  Le tableau de bord offrira des insights en temps réel sur les employés actifs, les nouvelles recrues, les départs et d’autres métriques clés pour soutenir une prise de décision stratégique. 
+L’objectif de ce projet est de réaliser un tableau de bord tenant compte des défis auxquels les professionnels des RH sont confrontés et de fournir un moyen efficace de répondre à leurs questions quotidiennes.  Le tableau de bord offrira des insights en temps réel sur les employés actifs, les départs et d’autres métriques clés pour soutenir une prise de décision stratégique. 
 Cet outil doit permettre aux RH : 
 -	D’avoir  un suivi des tendances des employés : embauche, départs et actifs
 -	D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
@@ -35,6 +35,11 @@ Pour retenir plus longtemps les séniors :
 Pour les départements avec turnover élevé :
 - Revoir les conditions de travail et la charge dans ces services
 - Proposer des parcours d'évolution attractifs
+
+<img width="1290" height="725" alt="Page_1" src="https://github.com/user-attachments/assets/21c45a87-88a2-4e06-83b5-07590209acc7" />
+<img width="1292" height="727" alt="Page_2" src="https://github.com/user-attachments/assets/4480b65e-3cd5-4205-8601-49d6c6e081c6" />
+<img width="1292" height="728" alt="Page_3" src="https://github.com/user-attachments/assets/453d234d-4d1d-4b73-99d5-e63ba701d14f" />
+
 
 
 
